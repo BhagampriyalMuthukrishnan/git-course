@@ -1,7 +1,7 @@
 add and remove users
 change roles
 managae db
-closing connection
+cloning mysql db connection
 
 change 1
 <<<<<<< HEAD
