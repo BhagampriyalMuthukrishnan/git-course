@@ -4,4 +4,8 @@ managae db
 closing connection
 
 change 1
+<<<<<<< HEAD
 change 2 
+=======
+change 2 in my db 
+>>>>>>> feature1
